@@ -1,0 +1,7 @@
+<resources>
+    <color name="bg_color">#F3F6FA</color>
+    <color name="text_color">#222222</color>
+    <color name="button_color">#673AB7</color>
+    <color name="result_color">#4CAF50</color>
+    <color name="white">#FFFFFF</color>
+</resources>
